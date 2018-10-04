@@ -6,7 +6,7 @@ var NKV = require('./NKV.js');
 app.use(express.static('public'));
 
 app.get('/', function(request, response) {
-  response.sendFile(__dirname + '/views/index.html');
+  response.sendFile(__dirname + '/docs/index.html');
 });
 
 var listener = app.listen(process.env.PORT, function() {
