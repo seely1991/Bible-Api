@@ -5,3 +5,5 @@ I made the api using a text document I found of the NKjV bible and converted it 
 [Here's a link to the original text downloaded before conversion to JSON](http://www.truth.info/download/bible.htm)
 
 Search queries support alternate names of certain books (for instance 'Song of Songs' or 'Song of Solomon.'
+
+[Original project on glitch](https://functional-pancreas.glitch.me/)
